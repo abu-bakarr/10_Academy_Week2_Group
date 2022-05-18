@@ -1,0 +1,1 @@
+worker: python3 scripts/db_script.py
