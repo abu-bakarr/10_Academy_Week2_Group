@@ -6,7 +6,7 @@ dist/
 __pycache__/
 *.so
 *~
-data/Week1_challenge_data_source.xlsx"
+data/AdSmartABdata.csv
 # due to using tox and pytest
 .tox
 .cache
