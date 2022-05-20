@@ -1,0 +1,4 @@
+outs:
+- md5: 40980815c6cdcf726cfd6d50e5d5bb65
+  size: 105723
+  path: platform_clean_data.csv
