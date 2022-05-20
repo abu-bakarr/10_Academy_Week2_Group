@@ -9,7 +9,6 @@ __pycache__/
 data/AdSmartABdata.csv
 
 data/cleaned_data.csv
-
 data/browser_clean_data.csv
 data/platform_clean_data.csv
 
