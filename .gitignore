@@ -7,6 +7,12 @@ __pycache__/
 *.so
 *~
 data/AdSmartABdata.csv
+
+data/cleaned_data.csv
+
+data/browser_clean_data.csv
+data/platform_clean_data.csv
+
 # due to using tox and pytest
 .tox
 .cache
