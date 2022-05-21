@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/%210%20Acadamy/week%202/mlruns/1/912a5c8758ab46cb8de50c4ad0faac04/artifacts
+end_time: 1653139480539
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 912a5c8758ab46cb8de50c4ad0faac04
+run_uuid: 912a5c8758ab46cb8de50c4ad0faac04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653139461226
+status: 3
+tags: []
+user_id: hp

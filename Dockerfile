@@ -6,9 +6,12 @@ ENV PYTHONUNBUFFERED=1
 
 COPY requirements.txt .
 
+COPY models .
+
+
 RUN pip install -r requirements.txt
 
 
-COPY inference.py ./inference.py
+COPY train.py ./train.py
 
 # RUN python3 dashboard.py
