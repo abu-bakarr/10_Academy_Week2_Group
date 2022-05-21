@@ -98,6 +98,7 @@ tornado==6.1
 tqdm==4.64.0
 traitlets==5.1.1
 dvc==2.10.2
+mlflow==1.26.0
 
 # tzdata==2022.1
 # tzlocal==4.2

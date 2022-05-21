@@ -36,7 +36,6 @@ def train():
 
     MODEL_DIR = os.path.join(os.getcwd(), "models")
     MODEL_PATH_LRM = os.path.join(MODEL_DIR, "clf_lrm.joblib")
-    MODEL_PATH_NN = os.path.join(MODEL_DIR, "clf_nn.joblib")
     
     #Load DataSets
     data_url= dvc.api.get_url(
