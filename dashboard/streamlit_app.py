@@ -24,8 +24,6 @@ def app():
     st.subheader("2.The Top 5 Handset Manufacturers")
     st.bar_chart(clean_csv["Handset Manufacturer"].value_counts().nlargest(5))
     
-
-    
     st.subheader("Highest Used app compared to the total consumption")
     st.area_chart(userdata_info[["Total UL/DL", "Gaming UL/DL"]])
     hist_data = [userdata_info["Total UL/DL"],userdata_info["Gaming UL/DL"]]
